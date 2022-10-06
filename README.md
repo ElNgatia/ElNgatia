@@ -6,10 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end web developer
 -----------------------
 
-* 🌍  I'm based in Nairobi
+* 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [ngatiaelvisw@gmail.com](mailto:ngatiaelvisw@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on web design and development
+* 🤝  I'm open to collaborating on interesting javascript projects.
 
 <a href="https://www.twitter.com/blindbanditbmc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/blindbanditbmc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

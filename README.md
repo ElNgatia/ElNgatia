@@ -9,7 +9,7 @@ Front-end web developer
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [ngatiaelvisw@gmail.com](mailto:ngatiaelvisw@gmail.com)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on interesting javascript projects.
+* 🤝  I'm open to collaborating on open source projects.
 
 <a href="https://www.twitter.com/blindbanditbmc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/blindbanditbmc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

@@ -38,4 +38,4 @@ src="https://img.shields.io/twitter/follow/blindbanditbmc?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ElNgatia"><img src="https://github-readme-stats.vercel.app/api?username=ElNgatia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ElNgatia's GitHub stats" /></a>
+<a href="http://www.github.com/ElNgatia"><img src="https://github-readme-stats-blindbanditbmc.vercel.app/api?username=ElNgatia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ElNgatia's GitHub stats" /></a>

@@ -41,3 +41,7 @@ src="https://img.shields.io/twitter/follow/blindbanditbmc?logo=twitter&style=for
 <b>Top Languages</b>
 
 [![Top Langs](https://github-readme-stats-blindbanditbmc.vercel.app/api/top-langs/?username=ElNgatia&layout=compact&show_icons=true&theme=transparent&langs_count=6)](https://github.com/ElNgatia/github-readme-stats)
+
+### Contribution graph
+
+![snake gif](https://github.com/ElNgatia/ElNgatia/blob/output/github-contribution-grid-snake.gif)

@@ -44,4 +44,4 @@ src="https://img.shields.io/twitter/follow/blindbanditbmc?logo=twitter&style=for
 
 ### Contribution graph
 
-![snake gif](https://github.com/ElNgatia/ElNgatia/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ElNgatia/ElNgatia/blob/output/github-contribution-grid-snake.svg)

@@ -12,9 +12,7 @@ Front-end web developer
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on open source projects.
 
-<a href="https://www.twitter.com/blindbanditbmc" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/blindbanditbmc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 [![wakatime](https://wakatime.com/badge/user/9d2db4cf-fab5-4ac9-859f-30c94a617589.svg)](https://wakatime.com/@9d2db4cf-fab5-4ac9-859f-30c94a617589)
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=ElNgatia.ElNgatia&left_color=grey&right_color=blue)
 

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Elvis Ngatia
 ====================================================================================================================================
 
-Front-end web developer
+Front-end developer
 -----------------------
 
 * 🌍  I'm based in Nairobi, Kenya

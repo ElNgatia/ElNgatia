@@ -35,6 +35,7 @@ Front-end developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ElNgatia"><img src="https://github-readme-stats-blindbanditbmc.vercel.app/api?username=ElNgatia&show_icons=true&theme=transparent" alt="ElNgatia's GitHub stats" /></a>
+  
 
 <b>Top Languages</b>
 

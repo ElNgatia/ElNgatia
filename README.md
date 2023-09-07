@@ -49,4 +49,4 @@ Android developer
 
 ### Contribution graph
 
-![snake gif](https://github.com/ElNgatia/ElNgatia/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ElNgatia/ElNgatia/blob/output/github-contribution-grid-snake.svg?palette=github-dark)

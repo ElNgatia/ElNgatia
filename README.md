@@ -9,7 +9,7 @@ Android developer
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [ngatiaelvisw@gmail.com](mailto:ngatiaelvisw@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm building in Flutter
 * 🤝  I'm open to collaborating on open source projects.
 
 

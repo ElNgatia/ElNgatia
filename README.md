@@ -3,7 +3,7 @@ Flutter developer
 
 * ✉️  You can contact me at [ngatiaelvisw@gmail.com](mailto:ngatiaelvisw@gmail.com)
 * 🧠  I'm building in Flutter
-* 🤝  I'm open to collaborating on open source projects.
+
 
 
 [![wakatime](https://wakatime.com/badge/user/9d2db4cf-fab5-4ac9-859f-30c94a617589.svg)](https://wakatime.com/@9d2db4cf-fab5-4ac9-859f-30c94a617589)

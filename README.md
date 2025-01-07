@@ -35,8 +35,7 @@ src="https://img.shields.io/twitter/follow/ngatiaelvis_?logo=twitter&style=for-t
 
 <a href="http://www.github.com/ElNgatia"><img src="https://github-readme-stats-blindbanditbmc.vercel.app/api?username=ElNgatia&show_icons=true&theme=transparent" alt="ElNgatia's GitHub stats" /></a>
 
-<a href="http://www.github.com/ElNgatia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElNgatia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-liard-seven.vercel.app?user=ElNgatia&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
 
 <b>Top Languages</b>
 

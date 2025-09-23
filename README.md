@@ -2,16 +2,17 @@ Flutter developer
 -----------------
 
 * ✉️  You can contact me at [ngatiaelvisw@gmail.com](mailto:ngatiaelvisw@gmail.com)
-* 🧠  I'm building in Flutter
+* 🛠  I'm building in Flutter
+* 💡  Currently learning Go.
 
 
 
 [![wakatime](https://wakatime.com/badge/user/9d2db4cf-fab5-4ac9-859f-30c94a617589.svg)](https://wakatime.com/@9d2db4cf-fab5-4ac9-859f-30c94a617589)
 
+![CodeWars](https://www.codewars.com/users/ElNgatia/badges/large)
+
 ### Connect with me:
-<a href="https://www.x.com/ngatiaelvis_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ngatiaelvis_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<p align="left"> <a href="https://www.x.com/ngatiaelvis_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://discord.com/users/blindbandit_bmc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 ### Languages and Tools:
 
@@ -24,7 +25,7 @@ src="https://img.shields.io/twitter/follow/ngatiaelvis_?logo=twitter&style=for-t
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a>
 </p>
 
 
@@ -36,6 +37,7 @@ src="https://img.shields.io/twitter/follow/ngatiaelvis_?logo=twitter&style=for-t
 <a href="http://www.github.com/ElNgatia"><img src="https://github-readme-stats-blindbanditbmc.vercel.app/api?username=ElNgatia&show_icons=true&theme=transparent" alt="ElNgatia's GitHub stats" /></a>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-liard-seven.vercel.app?user=ElNgatia&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
+
 
 <b>Top Languages</b>
 

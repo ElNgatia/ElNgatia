@@ -3,7 +3,7 @@ Flutter developer
 
 * ✉️  You can contact me at [ngatiaelvisw@gmail.com](mailto:ngatiaelvisw@gmail.com)
 * 🛠  I'm building in Flutter
-* 💡  Currently learning Go.
+* 💡  Currently learning Go and Kotlin.
 
 
 
